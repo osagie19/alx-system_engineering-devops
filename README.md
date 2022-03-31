@@ -1,2 +1,2 @@
 #!/bin/bash
-alx system engineering devops
+engineering-devops
