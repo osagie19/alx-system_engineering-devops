@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+describing what each script is doing
